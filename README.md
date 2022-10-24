@@ -16,7 +16,7 @@ This is Myanmar Unicode Installation for Linux
 # Fonts  
   Download and install Pyidaungsu font
 
-#Acknowledgement
+# Acknowledgement
 https://github.com/thantthet/keymagic
 https://sourceforge.net/projects/ubuntumm/files/ibus-keymagic/
 https://keymagic.net/installation/linux/
