@@ -2,7 +2,7 @@
 This is Myanmar Unicode Installation for Linux
 
 # Keymagic
-  Download ibus-keymagic and install it
+  Download ibus-keymagic and install it\
   sudo dpkg -i ibus-keymagic*.deb
 
 # Keyboard Layout
