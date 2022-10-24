@@ -1,5 +1,5 @@
 # mm-unicode-guide-for-Linux
-# This is Myanmar Unicode Installation for Linux
+This is Myanmar Unicode Installation for Linux
 
 1-Download ibus-keymagic and install it
   sudo dpkg -i ibus-keymagic*.deb
